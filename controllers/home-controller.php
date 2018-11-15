@@ -19,6 +19,7 @@ class HomeController extends MainController
 		/** Load Views **/
         require ABSPATH . '/views/_includes/header.php';
         // require another view here
+        require ABSPATH . '/views/exemple/exemple-view.php';
         require ABSPATH . '/views/_includes/footer.php';
 		
     }
