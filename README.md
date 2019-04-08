@@ -1,4 +1,4 @@
-# Frameworck-MVC-with-PHP-and-MySQL
+# Simple frameworck MVC with PHP and MySQL
 
 A simple framework for MVC applications, totally made with pure PHP. 
 The framework creates an easy, solid and fast foundation to start a 
